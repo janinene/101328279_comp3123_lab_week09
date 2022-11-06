@@ -1,13 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import React from "react";
 
-const lab = React({
+const lab = {
   stud_id : "101328279",
   my_name : "Janine Mae Usana",
   school : "George Brown College",
   location : "Toronto"
-})
+}
 
 function App() {
   return (
